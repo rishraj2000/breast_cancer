@@ -131,7 +131,7 @@ else:
 
 
 
-b = 3
+b = 4
 Y_pred_train = []
 accurate_rows = 0
 for x, y in zip(X_binarised_train, Y_train):
